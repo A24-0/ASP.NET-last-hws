@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPy4YbI12i8RAMdyto/bapU9s023RLhDJEGqDwHxSlUBfHvvft6o5jM/QQYROLk+duuO8rX0KBPu+RT6hHyZpQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\User\\Downloads\\BlazorApiEf-master\\Domain\\MyShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
